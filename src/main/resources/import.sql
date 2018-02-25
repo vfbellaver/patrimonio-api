@@ -1,0 +1,2 @@
+insert into item (etiqueta, descricao, data_aquisicao) values ('NT0123', 'Notebook Dell Core I7', sysdate());
+insert into item (etiqueta, descricao, data_aquisicao) values ('AU0455', 'Cadeira Giratória Presidente', sysdate());
